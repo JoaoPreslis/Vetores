@@ -33,7 +33,7 @@ public class Mavenproject3 {
         if(calcularmedia >=7 && frequencia>= 75){
             System.out.println("aluno aprovado");
         }else {
-            System.out.println("Aluno eprovado");
+            System.out.println("Aluno Reprovado");
         }
        
     }
